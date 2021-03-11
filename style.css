@@ -1,5 +1,5 @@
 #container, html, body{
-    height: 100%;
+    height: 98%;
     width: 100%;
 }
 
@@ -9,12 +9,14 @@
     border: 1px solid red;
     align-items: stretch;
     align-content: center;
+    width: 65%;
 }
 
 .grid {
 
-    border: 1px solid black;
-    width: 12%;
-    height: 12%;
+    border: 0px solid black;
+    width: 6%;
+    height: 6%;
    
 }
+
